@@ -8,9 +8,13 @@ Dijkstra is used to find shortest path between nodes in graph.
 
 <p float="left">
   
-![image](https://user-images.githubusercontent.com/108993449/229185381-1c35f458-6a57-43c6-8438-30728a5769dd.png)
-![image](https://user-images.githubusercontent.com/108993449/229185501-eb79e400-b271-433b-bc5a-635a08cbaad5.png)
-</p>
+![image](https://github.com/mayanklonkar/Path-planning-algorithms/assets/108993449/a7c553e2-fc05-42c5-9d2d-7235537465e0)
+![image](https://github.com/mayanklonkar/Path-planning-algorithms/assets/108993449/df3812d1-1fe9-47d0-ae61-753d59f23d89)
+
+
 
 ## Astar
+![image](https://github.com/mayanklonkar/Path-planning-algorithms/assets/108993449/015ddb8e-e00c-4dc1-83e9-7e4a78cd8def)
+![image](https://github.com/mayanklonkar/Path-planning-algorithms/assets/108993449/8d8a6be4-bfc8-4065-b754-55876a29805f)
+
 
