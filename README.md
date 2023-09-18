@@ -3,7 +3,7 @@
 ## Objective
 Visualizations of the two most popular path planning algorithms, Dijkstra's and A*, are implemented in this repository using Pygame.
 
-In this visualisation,
+In this visualisation, the following colour represents
 * Blue - Start box
 * Yellow - Target box
 * Navy blue - Final path
